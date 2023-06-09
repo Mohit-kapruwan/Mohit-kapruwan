@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/mohit-kapruwan-96b62b22b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mohit-kapruwan-96b62b22b" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mohit.kapruwan.56?mibextid=lqqj4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohit.kapruwan.56?mibextid=lqqj4d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/mohit-kapruwan-96b62b22b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohit kapruwan" height="30" width="40" /></a>
+<a href="Mohit kapruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohit.kapruwan.56?mibextid=lqqj4d" height="30" width="40" /></a>
 <a href="https://instagram.com/mohit_kapruwan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit_kapruwan_" height="30" width="40" /></a>
 </p>
 
