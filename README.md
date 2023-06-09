@@ -1,3 +1,5 @@
+![logo](https://github.com/Mohit-kapruwan/Mohit-kapruwan/blob/main/Github%20Banner.gif)
+
 <h1 align="center">Hi 👋, I'm Mohit kapruwan</h1>
 <h3 align="center">A passionate Android App developer from India</h3>
 
