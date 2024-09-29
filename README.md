@@ -1,7 +1,7 @@
 ![logo](https://github.com/Mohit-kapruwan/Mohit-kapruwan/blob/main/Github%20Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Mohit kapruwan</h1>
-<h3 align="center">A passionate Android App developer from India</h3>
+<h3 align="center">A passionate Flutter developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
